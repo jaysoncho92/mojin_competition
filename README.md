@@ -1,2 +1,2 @@
-# mojin_competition_
-魔镜杯大赛
+# mojin_competition
+魔镜杯大赛第四届 Fourth Session
